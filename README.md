@@ -24,10 +24,10 @@ References:
        The Salinity Retrieval Algorithms for the NASA Aquarius Version 5 and SMAP Version 3 Releases, Remote Sensing 10, 1121, doi:10.3390/rs10071121. 
 
  3.    Meissner, T. and F. Wentz, The complex dielectric constant of pure and sea water from microwave satellite observations, 
-       IEEE TGRS, 2004, 42(9), 1836 – 1849, doi:10.1109/TGRS.2004.831888.
-
- 4. 	 Meissner, T. and F. Wentz, The emissivity of the ocean surface between 6 and 90 GHz over a large range of wind speeds and Earth incidence angles, 
-       IEEE TGRS, 2012, 50(8), 3004 – 3026, doi: 10.1109/TGRS.2011.2179662.   
-
- 5. 	Meissner, T., F. Wentz, F. and L. Ricciardulli, The emission and scattering of L-band microwave radiation  from rough ocean surfaces 
-       and wind speed measurements from Aquarius, J. Geophys. Res. Oceans, 2014, 119, doi:10.1002/2014JC009837.
+       IEEE TGRS, 2004, 42(9), 1836 – 1849, doi:10.1109/TGRS.2004.831888. 
+       
+ 4.    Meissner, T. and F. Wentz, The emissivity of the ocean surface between 6 and 90 GHz over a large range of wind speeds and Earth incidence angles, 
+       IEEE TGRS, 2012, 50(8), 3004 – 3026, doi: 10.1109/TGRS.2011.2179662. 
+       
+ 5.    Meissner, T., F. Wentz, F. and L. Ricciardulli, The emission and scattering of L-band microwave radiation  from rough ocean surfaces 
+       and wind speed measurements from Aquarius, J. Geophys. Res. Oceans, 2014, 119, doi:10.1002/2014JC009837. 
